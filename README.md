@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/sophiaorlando/MediaMonksCookies">
     <img src="assets/mmbanner.png" alt="Logo" width="100%" height="80">
   </a>
 
@@ -45,7 +45,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project stores and saves cookies in your browser. Every time a user visits the page, or refreshes it, they will be presented with a ball. A cookie will be stored every time the user sees a blue ball or a red ball. Once the cookies are cached, the application will refresh and all previous cookies will be deleted. 
+Upon visiting the page, a user will have a 50/50 chance of being presented with a red ball or a blue ball. Using cookies with functionality written in  Javascript, we can determine whether the user saw a red or blue ball. This information is created, stored, and saved using cookies inside of your browser. A report is shown on screen of the number of times a user has visited the site, and the number of times they saw each color ball. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,13 +83,6 @@ Visual Studio
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
-
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
